@@ -1,0 +1,6 @@
+[submodule "specific/sfs"]
+	path = specific/sfs
+	url = https://github.com/arash-alinoori/sfs.git
+[submodule "specific/thermo"]
+	path = specific/thermo
+	url = https://github.com/arash-alinoori/thermo.git
